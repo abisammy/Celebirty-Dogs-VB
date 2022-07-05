@@ -1,0 +1,15 @@
+/home/abigreenberg/Documents/Coding/vb.net/proj1/bin/Debug/net6.0/proj1
+/home/abigreenberg/Documents/Coding/vb.net/proj1/bin/Debug/net6.0/proj1.deps.json
+/home/abigreenberg/Documents/Coding/vb.net/proj1/bin/Debug/net6.0/proj1.runtimeconfig.json
+/home/abigreenberg/Documents/Coding/vb.net/proj1/bin/Debug/net6.0/proj1.dll
+/home/abigreenberg/Documents/Coding/vb.net/proj1/bin/Debug/net6.0/proj1.pdb
+/home/abigreenberg/Documents/Coding/vb.net/proj1/obj/Debug/net6.0/proj1.vbproj.AssemblyReference.cache
+/home/abigreenberg/Documents/Coding/vb.net/proj1/obj/Debug/net6.0/proj1.GeneratedMSBuildEditorConfig.editorconfig
+/home/abigreenberg/Documents/Coding/vb.net/proj1/obj/Debug/net6.0/proj1.AssemblyInfoInputs.cache
+/home/abigreenberg/Documents/Coding/vb.net/proj1/obj/Debug/net6.0/proj1.AssemblyInfo.vb
+/home/abigreenberg/Documents/Coding/vb.net/proj1/obj/Debug/net6.0/proj1.vbproj.CoreCompileInputs.cache
+/home/abigreenberg/Documents/Coding/vb.net/proj1/obj/Debug/net6.0/proj1.dll
+/home/abigreenberg/Documents/Coding/vb.net/proj1/obj/Debug/net6.0/refint/proj1.dll
+/home/abigreenberg/Documents/Coding/vb.net/proj1/obj/Debug/net6.0/proj1.pdb
+/home/abigreenberg/Documents/Coding/vb.net/proj1/obj/Debug/net6.0/proj1.genruntimeconfig.cache
+/home/abigreenberg/Documents/Coding/vb.net/proj1/obj/Debug/net6.0/ref/proj1.dll
